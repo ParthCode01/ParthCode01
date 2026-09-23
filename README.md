@@ -133,13 +133,13 @@ Machine learning project that predicts student dropout risk.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:36BCF7&height=3&width=100%" />
 
-## 🏆 Achievements & Trophies
+## 🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ParthCode01&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub Trophies" />
-
 **🏆 Hackathon Winner · Algo Wars**
+
+**🚀 Building production-oriented applications**
 
 </div>
 
@@ -149,7 +149,7 @@ Machine learning project that predicts student dropout risk.
 
 <div align="center">
 
-<img src="https://github-profiles-insights.vercel.app/api/insight?username=ParthCode01&theme=tokyonight&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+<img src="https://streak-stats.demolab.com?user=ParthCode01&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
