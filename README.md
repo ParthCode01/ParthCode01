@@ -116,10 +116,6 @@ Machine learning project that predicts student dropout risk.
 <img src="https://leetcard.jacoblin.cool/Parth_Code001?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" />
 </a>
 
-<a href="https://codeforces.com/profile/ParthCode_01">
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=ParthCode_01" alt="Codeforces stats" />
-</a>
-
 </div>
 
 <br>
@@ -238,20 +234,6 @@ DSA
   └── LeetCode
        └── Codeforces
 ```
-
----
-
-## 2026 Goals
-
-* [x] Build REST APIs with Spring Boot
-* [x] Implement JWT Authentication
-* [x] Learn Docker fundamentals
-* [ ] Deploy a production Spring Boot application
-* [ ] Strengthen Java & Spring Boot
-* [ ] Reach 300+ LeetCode problems
-* [ ] Improve Codeforces rating
-* [ ] Learn practical System Design
-* [ ] Get a Software Engineering Internship
 
 ---
 
