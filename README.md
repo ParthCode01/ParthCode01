@@ -36,56 +36,72 @@
 
 <table>
 <tr>
-<td align="center" width="200">
+<td align="center" valign="top" width="200">
 
 ### ☕ Backend
 
-<img src="https://skillicons.dev/icons?i=java,spring&theme=dark" /><br/><br/>
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/REST_APIs-38BDF8?style=flat-square&logo=swagger&logoColor=white" /><br/>
+<img src="https://skillicons.dev/icons?i=java,spring&theme=dark" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/REST_APIs-38BDF8?style=flat-square&logo=swagger&logoColor=white" />
+<br/>
 <img src="https://img.shields.io/badge/JPA_/_Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
 
 </td>
-
-<td align="center" width="200">
+<td align="center" valign="top" width="200">
 
 ### ⚛️ Frontend
 
-<img src="https://skillicons.dev/icons?i=react,js,html,css&theme=dark" /><br/><br/>
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /><br/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /><br/>
+<img src="https://skillicons.dev/icons?i=react,js,html,css&theme=dark" />
+<br/><br/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<br/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<br/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/-‎-1a1a1a?style=flat-square" />
 
 </td>
-
-<td align="center" width="200">
+<td align="center" valign="top" width="200">
 
 ### 🗄️ Data
 
-<img src="https://skillicons.dev/icons?i=mysql,redis&theme=dark" /><br/><br/>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Database_Design-38BDF8?style=flat-square&logo=databricks&logoColor=white" /><br/>
+<img src="https://skillicons.dev/icons?i=mysql,redis&theme=dark" />
+<br/><br/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Database_Design-38BDF8?style=flat-square&logo=databricks&logoColor=white" />
+<br/>
 <img src="https://img.shields.io/badge/Caching-38BDF8?style=flat-square&logo=cachet&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/-‎-1a1a1a?style=flat-square" />
 
 </td>
-
-<td align="center" width="200">
+<td align="center" valign="top" width="200">
 
 ### 🐳 DevOps
 
-<img src="https://skillicons.dev/icons?i=docker,git,github&theme=dark" /><br/><br/>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /><br/>
+<img src="https://skillicons.dev/icons?i=docker,git,github&theme=dark" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<br/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/-‎-1a1a1a?style=flat-square" />
 
 </td>
 </tr>
