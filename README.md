@@ -149,7 +149,7 @@ Machine learning project that predicts student dropout risk.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ParthCode01&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://github-profiles-insights.vercel.app/api/insight?username=ParthCode01&theme=tokyonight&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
 
 </div>
 
