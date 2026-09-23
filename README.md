@@ -369,12 +369,6 @@ Building projects around authentication, databases, caching and deployment.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ParthCode01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthCode01&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-
-<br><br>
-
 <img src="https://streak-stats.demolab.com?user=ParthCode01&theme=tokyonight&hide_border=true" />
 
 </div>
