@@ -140,18 +140,6 @@ Machine learning project that predicts student dropout risk.
 
 ---
 
-## GitHub Snapshot
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ParthCode01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" alt="Parth Sharma's GitHub statistics" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthCode01&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Parth Sharma's most used programming languages" />
-
-</div>
-
----
-
 ### Contribution activity
 
 <div align="center">
@@ -200,14 +188,6 @@ Once that workflow has run once, uncomment the line below.
 -->
 
 ---
-
-### Activity graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ParthCode01&theme=tokyo-night&hide_border=true" alt="Parth Sharma's GitHub activity graph" />
-
-</div>
 
 ---
 
