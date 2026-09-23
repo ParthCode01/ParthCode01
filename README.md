@@ -11,7 +11,7 @@
 </p>
 
 <a href="https://github.com/ParthCode01"><img src="https://img.shields.io/badge/GitHub-ParthCode01-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/parth-sharma-471643365"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <img src="https://komarev.com/ghpvc/?username=ParthCode01&style=for-the-badge&color=0A66C2" alt="Profile views" />
 
 <br><br>
@@ -112,9 +112,12 @@ Machine learning project that predicts student dropout risk.
 
 <div align="center">
 
-<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-200%2B%20problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+<a href="https://leetcode.com/u/Parth_Code001/">
+<img src="https://leetcard.jacoblin.cool/Parth_Code001?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" />
 </a>
-<a href="https://codeforces.com/"><img src="https://img.shields.io/badge/Codeforces-Problem%20solving-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+
+<a href="https://codeforces.com/profile/ParthCode_01">
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=ParthCode_01" alt="Codeforces stats" />
 </a>
 
 </div>
@@ -135,8 +138,6 @@ Machine learning project that predicts student dropout risk.
 
 🏆 **Hackathon Winner · Algo Wars**
 
-👨‍💻 **200+ LeetCode Problems**
-
 🚀 **Building production-oriented applications**
 
 </div>
@@ -147,9 +148,9 @@ Machine learning project that predicts student dropout risk.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ParthCode01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Parth Sharma's GitHub statistics" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ParthCode01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" alt="Parth Sharma's GitHub statistics" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthCode01&layout=compact&theme=tokyonight&hide_border=true" alt="Parth Sharma's most used programming languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthCode01&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Parth Sharma's most used programming languages" />
 
 </div>
 
@@ -160,10 +161,47 @@ Machine learning project that predicts student dropout risk.
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=ParthCode01&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-<br>
-<img src="https://raw.githubusercontent.com/ParthCode01/ParthCode01/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
 
 </div>
+
+<!--
+The animated contribution "snake" below only renders once you generate it yourself —
+it was pointing at a branch that doesn't exist yet, which is why it was broken.
+To fix it: in your ParthCode01/ParthCode01 repo, add a file at
+.github/workflows/snake.yml with this content, then push to main:
+
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ParthCode01
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+Once that workflow has run once, uncomment the line below.
+-->
+
+<!--
+<div align="center">
+<img src="https://raw.githubusercontent.com/ParthCode01/ParthCode01/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+</div>
+-->
 
 ---
 
@@ -222,7 +260,7 @@ DSA
 <div align="center">
 
 <a href="https://github.com/ParthCode01"><img src="https://img.shields.io/badge/GitHub-ParthCode01-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Parth%20Sharma-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/parth-sharma-471643365"><img src="https://img.shields.io/badge/LinkedIn-Parth%20Sharma-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
 
 </div>
 
