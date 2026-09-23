@@ -42,10 +42,10 @@
 
 <img src="https://skillicons.dev/icons?i=java,spring&theme=dark" />
 
-**Java**
-**Spring Boot**
-**Spring Security**
-**REST APIs**
+**Java**<br/>
+**Spring Boot**<br/>
+**Spring Security**<br/>
+**REST APIs**<br/>
 **JPA / Hibernate**
 
 </td>
@@ -56,9 +56,9 @@
 
 <img src="https://skillicons.dev/icons?i=react,js,html,css&theme=dark" />
 
-**React**
-**JavaScript**
-**HTML**
+**React**<br/>
+**JavaScript**<br/>
+**HTML**<br/>
 **CSS**
 
 </td>
@@ -69,9 +69,9 @@
 
 <img src="https://skillicons.dev/icons?i=mysql,redis&theme=dark" />
 
-**MySQL**
-**Redis**
-**Database Design**
+**MySQL**<br/>
+**Redis**<br/>
+**Database Design**<br/>
 **Caching**
 
 </td>
@@ -82,9 +82,9 @@
 
 <img src="https://skillicons.dev/icons?i=docker,git,github&theme=dark" />
 
-**Docker**
-**Docker Compose**
-**Git**
+**Docker**<br/>
+**Docker Compose**<br/>
+**Git**<br/>
 **GitHub**
 
 </td>
@@ -173,33 +173,26 @@ SalonIQ is a production-oriented SaaS application designed around **salon owners
 
 ### What makes it interesting?
 
-```text
-┌──────────────────────────────────────────────────────────┐
-│                      SALONIQ                             │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  👑 OWNER                                               │
-│      │                                                   │
-│      ├── Manage Salon                                    │
-│      ├── Manage Stylists                                 │
-│      ├── Manage Treatments                               │
-│      └── Manage Bookings                                 │
-│                                                          │
-│  👤 CUSTOMER                                             │
-│      │                                                   │
-│      ├── Browse Salon                                    │
-│      ├── Book Appointment                                │
-│      └── Join Queue                                      │
-│                                                          │
-│  ⚙️ SYSTEM                                              │
-│      │                                                   │
-│      ├── JWT Authentication                              │
-│      ├── Role-Based Authorization                        │
-│      ├── Multi-Tenancy                                  │
-│      ├── Redis                                           │
-│      └── Docker Compose                                  │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
+```mermaid
+flowchart TB
+    A[SalonIQ] --> B[Owner]
+    A --> C[Customer]
+    A --> D[System]
+
+    B --> B1[Manage Salon]
+    B --> B2[Manage Stylists]
+    B --> B3[Manage Treatments]
+    B --> B4[Manage Bookings]
+
+    C --> C1[Browse Salon]
+    C --> C2[Book Appointment]
+    C --> C3[Join Queue]
+
+    D --> D1[JWT Authentication]
+    D --> D2[Role-Based Authorization]
+    D --> D3[Multi-Tenancy]
+    D --> D4[Redis]
+    D --> D5[Docker Compose]
 ```
 
 **Core features**
