@@ -1,10 +1,8 @@
 <div align="center">
 
-# Parth Sharma
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:36BCF7&height=200&section=header&text=Parth%20Sharma&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer%20%C2%B7%20Spring%20Boot%20%C2%B7%20Problem%20Solving&descAlignY=58&descSize=18" alt="Header banner" />
 
-### Java Backend Developer · Spring Boot · Problem Solving
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Java+Backend+Developer;Spring+Boot+Developer;Building+Real-World+Applications;DSA+%7C+Problem+Solving;Always+Learning+%26+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Java+Backend+Developer;Spring+Boot+Developer;Building+Real-World+Applications;DSA+%7C+Problem+Solving;Always+Learning+%26+Building" alt="Typing SVG" />
 
 <p>
   I build secure, scalable backend systems and practical full-stack applications.
@@ -12,7 +10,14 @@
 
 <a href="https://github.com/ParthCode01"><img src="https://img.shields.io/badge/GitHub-ParthCode01-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/parth-sharma-471643365"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<img src="https://komarev.com/ghpvc/?username=ParthCode01&style=for-the-badge&color=0A66C2" alt="Profile views" />
+<a href="https://leetcode.com/u/Parth_Code001/"><img src="https://img.shields.io/badge/LeetCode-Parth__Code001-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<img src="https://komarev.com/ghpvc/?username=ParthCode01&style=for-the-badge&color=0A66C2&label=PROFILE+VIEWS" alt="Profile views" />
+
+<br><br>
+
+<a href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+</a>
 
 <br><br>
 
@@ -20,7 +25,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:36BCF7&height=3&width=100%" />
 
 ## About Me
 
@@ -28,7 +33,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### What I do
+### 🛠️ What I do
 
 - Design and build REST APIs with Java and Spring Boot
 - Add authentication and role-based authorization
@@ -38,11 +43,11 @@
 </td>
 <td width="50%" valign="top">
 
-### What I am learning
+### 📡 What I am learning
 
 `Spring Security` · `Redis` · `Docker` · `System Design`
 
-### Outside the editor
+### 🧩 Outside the editor
 
 DSA, hackathons, and building useful software from first principles.
 
@@ -50,19 +55,19 @@ DSA, hackathons, and building useful software from first principles.
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:36BCF7&height=3&width=100%" />
 
-## Tech Stack
+## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,react,js,html,css,mysql,redis,docker,git,github" alt="Java, Spring, Maven, React, JavaScript, HTML, CSS, MySQL, Redis, Docker, Git and GitHub" />
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,react,js,html,css,mysql,redis,docker,git,github&theme=dark" alt="Java, Spring, Maven, React, JavaScript, HTML, CSS, MySQL, Redis, Docker, Git and GitHub" />
 </p>
 
 <p align="center"><strong>Backend</strong> · Java · Spring Boot · Spring Security · REST APIs · JPA<br><strong>Frontend</strong> · React · JavaScript · HTML · CSS<br><strong>Data & DevOps</strong> · MySQL · Redis · Docker · Git</p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:36BCF7&height=3&width=100%" />
 
-## Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -106,9 +111,9 @@ Machine learning project that predicts student dropout risk.
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:36BCF7&height=3&width=100%" />
 
-## Problem Solving
+## 🧠 Problem Solving
 
 <div align="center">
 
@@ -126,21 +131,21 @@ Machine learning project that predicts student dropout risk.
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:36BCF7&height=3&width=100%" />
 
-## Achievements
+## 🏆 Achievements & Trophies
 
 <div align="center">
 
-🏆 **Hackathon Winner · Algo Wars**
+<img src="https://github-profile-trophy.vercel.app/?username=ParthCode01&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub Trophies" />
 
-🚀 **Building production-oriented applications**
+**🏆 Hackathon Winner · Algo Wars**
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:36BCF7&height=3&width=100%" />
 
-### Contribution activity
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -149,10 +154,8 @@ Machine learning project that predicts student dropout risk.
 </div>
 
 <!--
-The animated contribution "snake" below only renders once you generate it yourself —
-it was pointing at a branch that doesn't exist yet, which is why it was broken.
-To fix it: in your ParthCode01/ParthCode01 repo, add a file at
-.github/workflows/snake.yml with this content, then push to main:
+Want the animated contribution "snake" here too?
+Add a file at .github/workflows/snake.yml in your ParthCode01/ParthCode01 repo with:
 
 name: Generate Snake
 on:
@@ -178,20 +181,15 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-Once that workflow has run once, uncomment the line below.
--->
-
-<!--
+Then uncomment:
 <div align="center">
 <img src="https://raw.githubusercontent.com/ParthCode01/ParthCode01/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
 </div>
 -->
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:36BCF7&height=3&width=100%" />
 
----
-
-## Currently Learning
+## 📚 Currently Learning
 
 ```text
 Java
@@ -215,9 +213,9 @@ DSA
        └── Codeforces
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:36BCF7&height=3&width=100%" />
 
-## Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -232,6 +230,8 @@ DSA
 
 ### Thanks for visiting.
 
-⭐ Explore the repositories, follow the build, and let’s connect.
+⭐ Explore the repositories, follow the build, and let's connect.
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:2C5364,100:0F2027&height=120&section=footer" alt="Footer banner" />
